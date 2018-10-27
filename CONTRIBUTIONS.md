@@ -14,4 +14,7 @@ Name: Mohamed Shehas v
 Place: KUTTIPPURAM	
 Github: [shehasv](https://github.com/shehasv)
 
+Name: Sanduni Ekanayaka
+Place: Anuradhapura,Sri Lanka
+Github: [sanduni-E](https://github.com/sanduni-E)
 
